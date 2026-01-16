@@ -1,2 +1,2 @@
 # deplyx.github.io
-Deployx Docs
+Deplyx Docs
